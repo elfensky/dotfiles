@@ -1,0 +1,11 @@
+environment variables
+
+PATHS:
+C:\python27\
+C:\python27\Scripts
+
+C:\python37\
+C:\python37\Scripts\
+
+
+C:\adb

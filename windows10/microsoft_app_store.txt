@@ -1,0 +1,8 @@
+Install from Microsoft App Store
+--codecs--
+HEIF
+HVEC
+MPEG-2
+WebP Image Extension
+WebM Video Extensions
+

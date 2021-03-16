@@ -1,0 +1,45 @@
+﻿2019-02-22 20:44:25.596 - ShareX starting.
+2019-02-22 20:44:25.603 - Version: 12.3.1
+2019-02-22 20:44:25.603 - Build: Release
+2019-02-22 20:44:25.603 - Command line: "C:\Program Files\ShareX\ShareX.exe"
+2019-02-22 20:44:25.603 - Personal path: C:\Users\andrei\Documents\ShareX
+2019-02-22 20:44:25.603 - Operating system: Windows 10 Pro (64-bit)
+2019-02-22 20:44:25.603 - Running as elevated process: False
+2019-02-22 20:44:25.637 - ApplicationConfig load started: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:44:25.637 - ApplicationConfig load started: C:\Users\andrei\Documents\ShareX\Backup\ApplicationConfig.json
+2019-02-22 20:44:25.637 - ApplicationConfig not found. Loading new instance.
+2019-02-22 20:44:25.860 - UploadersConfig load started: C:\Users\andrei\Documents\ShareX\UploadersConfig.json
+2019-02-22 20:44:25.860 - UploadersConfig load started: C:\Users\andrei\Documents\ShareX\Backup\UploadersConfig.json
+2019-02-22 20:44:25.860 - UploadersConfig not found. Loading new instance.
+2019-02-22 20:44:25.861 - MainForm init started.
+2019-02-22 20:44:25.878 - HotkeysConfig load started: C:\Users\andrei\Documents\ShareX\HotkeysConfig.json
+2019-02-22 20:44:25.878 - HotkeysConfig load started: C:\Users\andrei\Documents\ShareX\Backup\HotkeysConfig.json
+2019-02-22 20:44:25.878 - HotkeysConfig not found. Loading new instance.
+2019-02-22 20:44:26.474 - MainForm init finished.
+2019-02-22 20:44:26.821 - Startup time: 1344 ms
+2019-02-22 20:44:26.900 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2019-02-22 20:44:26.901 - Unable to register hotkey: Print Screen
+2019-02-22 20:44:26.901 - Hotkey register failed: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2019-02-22 20:44:26.901 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2019-02-22 20:44:26.901 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2019-02-22 20:44:26.901 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2019-02-22 20:44:31.232 - HotkeyManager started.
+2019-02-22 20:44:31.232 - WatchFolderManager started.
+2019-02-22 20:45:17.737 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-02-22 20:45:17.746 - Found program with first method: C:\Program Files\Adobe\Adobe Photoshop CC 2019\Photoshop.exe
+2019-02-22 20:45:18.966 - ApplicationConfig save started: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:19.222 - ApplicationConfig save successful: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:37.547 - ApplicationConfig save started: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:37.677 - ApplicationConfig save successful: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:41.115 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2019-02-22 20:45:41.115 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2019-02-22 20:45:41.115 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2019-02-22 20:45:41.115 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2019-02-22 20:45:41.129 - ShareX closing.
+2019-02-22 20:45:41.174 - ApplicationConfig save started: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:41.328 - ApplicationConfig save successful: C:\Users\andrei\Documents\ShareX\ApplicationConfig.json
+2019-02-22 20:45:41.337 - UploadersConfig save started: C:\Users\andrei\Documents\ShareX\UploadersConfig.json
+2019-02-22 20:45:41.437 - UploadersConfig save successful: C:\Users\andrei\Documents\ShareX\UploadersConfig.json
+2019-02-22 20:45:41.446 - HotkeysConfig save started: C:\Users\andrei\Documents\ShareX\HotkeysConfig.json
+2019-02-22 20:45:41.565 - HotkeysConfig save successful: C:\Users\andrei\Documents\ShareX\HotkeysConfig.json
+2019-02-22 20:45:41.572 - ShareX closed.
