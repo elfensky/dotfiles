@@ -1,0 +1,21 @@
+# link nvm when installed using brew
+# export NVM_DIR=~/.nvm
+# source $(brew --prefix nvm)/nvm.sh 
+
+#link nvm when installed using script
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+#enable colors in terminal
+export CLICOLOR=1
+#export LSCOLORS=ExFxBxDxCxegedabagacad[ -s "$NVM_DIR/bash_completion" ] && . "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+#aliases
+alias backend="cd ~/howest/mct/backend"
+alias smartapp="cd ~/howest/mct/smartapp" 
+alias htop="sudo htop"
+
+#suffix aliases
+alias -s txt=code #open txt in vscode
+alias -s md=code
+#alias -s zshrc=code

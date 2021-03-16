@@ -58,6 +58,7 @@ choco install eartrumpet
 choco install transmission
 choco install mp3tag
 choco install picard
+choco install gsudo
 
 ::choco install ccleaner -fy
 ::choco install pdfcreator -fy
